@@ -1,0 +1,21 @@
+body {
+  background-color: purple;
+  color: antiquewhite;
+  text-align: center;
+}
+
+img {
+  height: 160px;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: antiquewhite;
+}
